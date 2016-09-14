@@ -1,0 +1,32 @@
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.exe.config
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.exe
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.pdb
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.csprojResolveAssemblyReference.cache
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.Form1.resources
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.Properties.Resources.resources
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.csproj.GenerateResource.Cache
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.exe
+c:\users\zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.pdb
+C:\Users\Zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\bin\Debug\MetroFramework.Design.dll
+C:\Users\Zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\bin\Debug\MetroFramework.dll
+C:\Users\Zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.exe.manifest
+C:\Users\Zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.application
+C:\Users\Zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.exe.manifest
+C:\Users\Zyzz\documents\visual studio 2013\Projects\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.application
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.exe.config
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.exe
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.pdb
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.exe.manifest
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.application
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.exe
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\bin\Debug\XenoVoiceBot.pdb
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\bin\Debug\MetroFramework.Design.dll
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\bin\Debug\MetroFramework.dll
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\bin\Debug\MetroFramework.Fonts.dll
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.csprojResolveAssemblyReference.cache
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.Form1.resources
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.Properties.Resources.resources
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.csproj.GenerateResource.Cache
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.exe.manifest
+C:\Programming,gotove App\XenoVoiceBot\XenoVoiceBot\obj\Debug\XenoVoiceBot.application
